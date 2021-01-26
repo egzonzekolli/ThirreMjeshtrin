@@ -1,0 +1,224 @@
+<resources>
+    <string name="app_name">Thirre Mjeshtrin</string>
+    <string name="txtSearch">Search</string>
+    <string-array name="array_country">
+        <item>Kosova</item>
+        <item>Canada</item>
+        <item>US</item>
+        <item>Norway</item>
+        <item>China</item>
+        <item>Japan</item>
+        <item>Germany</item>
+    </string-array>
+    <string-array name="array_category">
+        <item>Select a category</item>
+        <item>Plumber</item>
+        <item>Mechanic</item>
+        <item>Electrician</item>
+    </string-array>
+    <string-array name="array_city">
+        <item>Select your city</item>
+        <item>Get my current location</item>
+        <item>Arendal</item>
+        <item>Bergen</item>
+        <item>Bodø</item>
+        <item>Drammen</item>
+        <item>Egersund</item>
+        <item>Farsund</item>
+        <item>Flekkefjord</item>
+        <item>Florø</item>
+        <item>Fredrikstad</item>
+        <item>Gjøvik</item>
+        <item>Grimstad</item>
+        <item>Halden</item>
+        <item>Hamar</item>
+        <item>Hammerfest</item>
+        <item>Harstad</item>
+        <item>Haugesund</item>
+        <item>Holmestrand</item>
+        <item>Horten</item>
+        <item>Hønefoss</item>
+        <item>Kongsberg</item>
+        <item>Kongsvinger</item>
+        <item>Kristiansand</item>
+        <item>Kristiansund</item>
+        <item>Larvik</item>
+        <item>Lillehammer</item>
+        <item>Mandal</item>
+        <item>Molde</item>
+        <item>Moss</item>
+        <item>Namsos</item>
+        <item>Narvik</item>
+        <item>Notodden</item>
+        <item>Oslo</item>
+        <item>Risør</item>
+        <item>Sandefjord</item>
+        <item>Sandnes</item>
+        <item>Sarpsborg</item>
+        <item>Skien</item>
+        <item>Stavanger</item>
+        <item>Steinkjer</item>
+        <item>Søgne</item>
+        <item>Tromsø</item>
+        <item>Trondheim</item>
+        <item>Tønsberg</item>
+        <item>Vadsø</item>
+        <item>Vardø</item>
+        <item>Vennesla</item>
+        <item>Ålesund</item>
+        <item>Alta</item>
+        <item>Askim</item>
+        <item>Brekstad</item>
+        <item>Brevik</item>
+        <item>Brumunddal</item>
+        <item>Bryne</item>
+        <item>Brekstad</item>
+        <item>Brønnøysund</item>
+        <item>Drøbak</item>
+        <item>Elverum</item>
+        <item>Fauske</item>
+        <item>Fagernes</item>
+        <item>Finnsnes</item>
+        <item>Fosnavåg</item>
+        <item>Førde</item>
+        <item>Hokksund</item>
+        <item>Honningsvåg</item>
+        <item>Jessheim</item>
+        <item>Jørpeland</item>
+        <item>Kirkenes</item>
+        <item>Kolvereid</item>
+        <item>Kopervik</item>
+        <item>Kragerø</item>
+        <item>Langesund</item>
+        <item>Leirvik</item>
+        <item>Leknes</item>
+        <item>Levanger</item>
+        <item>Lillesand</item>
+        <item>Lillestrøm</item>
+        <item>Lyngdal</item>
+        <item>Mo i Rana</item>
+        <item>Mosjøen</item>
+        <item>Mysen</item>
+        <item>Måløy</item>
+        <item>Odda</item>
+        <item>Orkanger</item>
+        <item>Otta</item>
+        <item>Rjukan</item>
+        <item>Sandnessjøen</item>
+        <item>Sandvika</item>
+        <item>Sauda</item>
+        <item>Ski</item>
+        <item>Skudeneshavn</item>
+        <item>Sortland</item>
+        <item>Stathelle</item>
+        <item>Stavern</item>
+        <item>Stjørdalshalsen</item>
+        <item>Tananger</item>
+        <item>Ulsteinvik</item>
+        <item>Verdalsøra</item>
+        <item>Vinstra</item>
+        <item>Åkrehamn</item>
+        <item>Åndalsnes</item>
+    </string-array>
+
+
+    <string name="txtSearch1">Search</string>
+    <string name="profile">Profile</string>
+    <string name="message">Message</string>
+    <string name="notification">Notification</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirmpassword">Confirm Password</string>
+    <string name="hint_tel">Tel</string>
+    <string name="hint_radius">Radius(km)</string>
+    <string name="hint_location">Location</string>
+    <string name="hint_name">Username</string>
+    <string name="inbox">Inbox</string>
+    <string name="textview">TextView</string>
+    <string name="btn_send_feedback">Send Feedback</string>
+    <string name="locationButtonDes">Location Button Description</string>
+    <string name="txt_feedback">Feedback...</string>
+    <string name="logoDescription">Logo</string>
+    <string name="text">text</string>
+    <string name="userIconDes">User Icon</string>
+    <string name="mechanisIconDes">Mechanic Logo</string>
+    <string name="textvdv">textvdv</string>
+    <string name="electricianIconDes">Electrician Logo</string>
+    <string name="emailIconDes">Email Icon</string>
+    <string name="plumberIconDes">Plumber Icon</string>
+    <string name="phoneIconDes">Phone Icon</string>
+    <string name="locationIconDes">Location Icon</string>
+    <string name="radiusIconDes">Radius Icon</string>
+    <string name="categoryIconDes">Category Icon</string>
+    <string name="btnSendRequest">Send Request</string>
+    <string name="btnChat">Chat</string>
+    <string name="sd">sd</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_registerAsUser">REGISTER AS A USER</string>
+    <string name="btn_registerAsRepairman">REGISTER AS A REPAIRMAN</string>
+    <string name="btn_link_to_register">Not a member? Sign up now!</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_login">Already registred? Login Now!</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="permission_rationale">The app needs this permission in order to run</string>
+    <string name="request_enable_gps">Please enable your GPS.</string>
+    <string name="no_connectivity">You don\'t seem to be connected to the internet</string>
+    <string name="auth_type">com.example.florim.thirremjeshtrin</string>
+
+    <string name="type_msg">Type message</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="or">or</string>
+    <string name="email">Email</string>
+    <string name="displayName">Display Name</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="log_in">Log in</string>
+    <string name="forgot_my_pwd">I’ve forgotten my password?</string>
+    <string name="my_chats">My Chats</string>
+    <string name="all_chats">All Chats</string>
+    <string name="search">Search</string>
+    <string name="to">To:</string>
+    <string name="edit">Edit</string>
+    <string name="new_chat">New Chat</string>
+    <string name="alert_wait">Please wait...</string>
+    <string name="err_fields_empty">Please fill all the fields.</string>
+    <string name="err_singup">Error occurred while signup:</string>
+    <string name="err_login">Error occurred while login:</string>
+    <string name="err_users">Error occurred while finding users:</string>
+    <string name="alert_loading">Loading...</string>
+    <string name="msg_no_user_found">No users found for chat!</string>
+    <string name="delivered_text">Delivered</string>
+    <string name="sending_text">Sending...</string>
+    <string name="failed_text">Failed</string>
+    <string name="no_provider_error">No Location Provider Available</string>
+    <string name="no_data_available">No data is available for your search.</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="not_registered">You need to be registered to use this feature.</string>
+    <string name="acount_permission_needed">Thirre Mjeshtrin needs access to accounts in order to run.</string>
+    <string name="only_characters">Full Name must contain only characters</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="invalid_password">The password must contain at least 8 alfanumeric characters</string>
+    <string name="only_numbers">Only numbers allowed in this field.</string>
+    <string name="invalid_username">Must start with an alfanumeric character, can contain underscore or dash</string>
+    <string name="invalid_username_or_email">Invalid Username of Email format.</string>
+    <string name="one_account_allowed">One account is already registered.</string>
+    <string name="btnAccept">ACCEPT</string>
+    <string name="btnRefuse">REFUSE</string>
+    <string name="log_out">Log Out</string>
+    <string name="btnRequest">Send Request</string>
+    <string name="title_activity_feedback_tab">FeedbackTab</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_Location">Get Location</string>
+    <string name="no_results">No resource available</string>
+    <string name="txtProfile">Profile</string>
+    <string name="no_rating">Please choose a rating value!</string>
+    <string name="user_not_available">The user is not currently  available.</string>
+    <string name="Profile_action">com.example.florim.thirremjeshtrin.Profile</string>
+    <string name="Inbox_action">com.example.florim.thirremjeshtrin.UserList</string>
+
+</resources>

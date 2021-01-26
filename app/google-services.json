@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1054639918010",
+    "firebase_url": "https://thirremjeshtrin-56b38.firebaseio.com",
+    "project_id": "thirremjeshtrin-56b38",
+    "storage_bucket": "thirremjeshtrin-56b38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054639918010:android:297938c6cc4904d3",
+        "android_client_info": {
+          "package_name": "com.example.florim.thirremjeshtrin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054639918010-nuoepoe65cn1dg1iaonora6tm4mv20s4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.florim.thirremjeshtrin",
+            "certificate_hash": "4BA18DFF6584FDBF6779E68951A1C141D8B508C4"
+          }
+        },
+        {
+          "client_id": "1054639918010-ijpjlg1uob1i8a6ktu19m9ull1bphqfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrvQHNcY_5KvFW_kl3mEY5SfQtX1r7cUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054639918010-ijpjlg1uob1i8a6ktu19m9ull1bphqfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

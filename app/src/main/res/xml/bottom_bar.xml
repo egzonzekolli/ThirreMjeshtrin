@@ -1,0 +1,11 @@
+
+<tabs>
+    <tab
+        id="@+id/tab_profile"
+        icon="@drawable/ic_profile_icon"
+        title="Profile" />
+    <tab
+        id="@+id/tab_inbox"
+        icon="@drawable/ic_email_icon"
+        title="Inbox" />
+</tabs>
